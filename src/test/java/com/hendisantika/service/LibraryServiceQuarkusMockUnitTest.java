@@ -2,6 +2,7 @@ package com.hendisantika.service;
 
 import com.hendisantika.model.Book;
 import com.hendisantika.repository.BookRepository;
+import com.hendisantika.util.TestBookRepository;
 import io.quarkus.test.junit.QuarkusMock;
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.BeforeEach;
